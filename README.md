@@ -47,4 +47,24 @@ This dataset serves as a benchmark for machine learning algorithms and is widely
 ### Dataset Link
 You can access the dataset from Kaggle at the following link: [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data).
 
+<br><hr>
 
+## Algorithms
+
+### 1. Logistic Regression
+Logistic Regression is a statistical model that uses a logistic function to model a binary dependent variable. In this project, it helps in predicting whether a tumor is malignant or benign based on various features extracted from the dataset. It estimates the probabilities of the classes (0 for benign and 1 for malignant) and provides a clear interpretation of the relationship between the input features and the target outcome.
+
+### 2. Linear Discriminant Analysis (LDA)
+Linear Discriminant Analysis is a classification method that projects features in a way that maximizes the distance between multiple classes while minimizing the variance within each class. It is particularly effective when the classes are well-separated and can help improve classification performance by reducing the dimensionality of the data.
+
+### 3. Quadratic Discriminant Analysis (QDA)
+Quadratic Discriminant Analysis is similar to LDA but allows for quadratic boundaries between classes. This means that it can capture more complex relationships in the data when the distribution of the classes is not identical. QDA is useful in scenarios where the assumption of equal covariance matrices for the classes does not hold.
+
+### 4. K-Nearest Neighbors (KNN)
+K-Nearest Neighbors is a non-parametric algorithm used for classification and regression. It classifies a data point based on how its neighbors are classified. The algorithm considers the ‘k’ closest training examples in the feature space. It’s simple to implement and often yields good results, especially in cases where the decision boundary is irregular.
+
+### 5. Random Forest
+Random Forest is an ensemble learning method that constructs multiple decision trees during training and outputs the mode of their predictions (for classification) or the mean prediction (for regression). This method improves the model's accuracy and controls overfitting by averaging the results of multiple trees, making it robust against noise and outliers in the dataset.
+
+### 6. K-Means Clustering
+K-Means Clustering is an unsupervised learning algorithm used for partitioning the dataset into K distinct clusters. In the context of this project, K-Means can help identify natural groupings within the data, such as clustering different types of tumors based on their features. It can provide insights into patterns in the data that may not be immediately obvious.
