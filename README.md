@@ -6,6 +6,17 @@ The **Breast Cancer Detection** project utilizes machine learning algorithms to 
 
 The code is built using Python libraries, including **pandas** and **NumPy** for data handling, **Seaborn** and **Matplotlib** for visualization, and **scikit-learn** for machine learning algorithms. The main algorithms applied in this project are **Logistic Regression**, **Linear Discriminant Analysis (LDA)**, **Quadratic Discriminant Analysis (QDA)**, **K-Nearest Neighbors (KNN)**, **Random Forest**, and **K-Means Clustering**. These models help evaluate the dataset’s features, aiming to accurately predict the tumor status.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
+![Data Source](https://img.shields.io/badge/dataset-Kaggle-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+<hr>
+
 ## Dataset
 
 ### Dataset Name
